@@ -12,7 +12,7 @@
     - Event app performs two functions, create new event and edit existing event.
     - Create new event button takes to create event page , where we can create new
 event.
-    - Fetched rows in event.php are editable on clicking the side edit icon, which will take
+    - Fetched rows in event page are editable on clicking the side edit icon, which will take
 to edit event page , where we can edit existing event.
 4. Clicking on invoice will take us to invoice page.
     - Invoice app performs two functions, create new invoice and edit existing invoice.
